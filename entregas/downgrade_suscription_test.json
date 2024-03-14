@@ -1,0 +1,16 @@
+[
+  {
+    "usuario": {
+      "nombre_usuario": "test",
+      "medio_pago": "Efectivo"
+    },
+    "tipo": "Cancelado",
+    "costo_mensual": 0.0,
+    "duracion_meses": 0,
+    "fecha_inicio": {
+      "dia": 13,
+      "mes": 6,
+      "año": 2023
+    }
+  }
+]

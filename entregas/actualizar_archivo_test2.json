@@ -1,0 +1,16 @@
+[
+  {
+    "usuario": {
+      "nombre_usuario": "test",
+      "medio_pago": "Efectivo"
+    },
+    "tipo": "Basic",
+    "costo_mensual": 999.99,
+    "duracion_meses": 1,
+    "fecha_inicio": {
+      "dia": 13,
+      "mes": 6,
+      "año": 2023
+    }
+  }
+]
